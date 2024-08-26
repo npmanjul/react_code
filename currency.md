@@ -3,7 +3,7 @@
 ## api link
 
 ```javascript
-let url = `https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/${currency}.json`
+let url = `https://api.freecurrencyapi.com/v1/latest?apikey=fca_live_9AJkXA54MJ1Jm08FHannBasuzNgJC0B9s4nK9EOj`
 
 ```
 
